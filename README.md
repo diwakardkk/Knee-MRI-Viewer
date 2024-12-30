@@ -23,14 +23,14 @@ To use this tool, download the dataset from the above link and place the `.pck` 
 # Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/knee-mri-viewer.git
+   git clone [https://github.com/yourusername/knee-mri-viewer.git](https://github.com/diwakardkk/Knee-MRI-Viewer.git)
    cd knee-mri-viewer
 
-2. Create a virtual environment:
+3. Create a virtual environment:
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   source venv/bin/activate
 
-3. Install dependencies:
+5. Install dependencies:
    pip install -r requirements.txt
 
  
