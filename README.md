@@ -54,3 +54,8 @@ Run the Tkinter application:
 ![snapshot 1](https://github.com/user-attachments/assets/d26cb49a-cf1e-4722-84cf-1be6dcf5893d)
 ![Screenshot 2](https://github.com/user-attachments/assets/7f01473c-25a5-4dc1-ae20-204c2e0d6124)
 
+# Contributing
+Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request.
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
